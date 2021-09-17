@@ -1,0 +1,33 @@
+body {
+background-color:whitesmoke;
+
+}
+
+header{
+ color: #ffffff;
+ padding: 8px;
+text-align: center;
+font-size: 30px;
+font-family: monospace;
+background-color: black;
+}
+
+section{
+font-family: monospace;
+color: black;
+background-color: rgb(202, 202, 202);
+padding: 20px;
+
+}
+
+#job{
+font-family:monospace;
+background-color: rgb(202, 202, 202);
+padding: 60px;
+}
+
+
+img {
+    float: right;
+    margin-right: 40px;
+}
