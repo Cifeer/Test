@@ -15,19 +15,65 @@ background-color: black;
 section{
 font-family: monospace;
 color: black;
-background-color: rgb(202, 202, 202);
+background-color: rgb(200, 200, 214);
 padding: 20px;
 
 }
 
 #job{
 font-family:monospace;
-background-color: rgb(202, 202, 202);
+background-color: rgb(209, 224, 202);
 padding: 60px;
 }
 
 
-img {
-    float: right;
-    margin-right: 40px;
+#img1 {
+    float:right;
+    margin-right: 1200px;
 }
+
+.test {
+    font-family:monospace;
+    background-color: rgb(233, 200, 215);
+    padding: 40px;
+    text-align: center;
+    margin-right: auto;
+}
+#test2{
+text-align: left;
+position: relative; bottom: 40px;
+    
+}
+
+#testimg1{
+
+position: relative; bottom:200px; left: 5px;
+
+}
+
+#testimg2{
+
+    position: relative; bottom:590px; left: 300px;
+    
+    }
+
+#testimg3{
+position: relative; bottom: 825px; left: 1900px;
+
+}
+
+#ocean{
+text-align: left;
+position: relative; top: 300px;
+}
+
+#learning{
+text-align: middle;
+position: relative; left: 750px; bottom: 125px;
+
+}
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+  }
